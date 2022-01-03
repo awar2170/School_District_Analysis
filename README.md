@@ -34,16 +34,20 @@ Lowest Performaing Schools Summary Excluding Thomas 9th Grade Scores
 #### Grade 
 ##### Reading
 Reading Scores by Grade Including Thomas 9th Grade Scores
+
 ![Reading Scores by Grade Including Thomas 9th Grade Scores](https://github.com/awar2170/School_District_Analysis/blob/main/Resources/Comparision%20Photos/Reading%20scores%20by%20grade%2C%20including%20the%209th%20grade%20Thomas.png)
 
 Reading Scores by Grade Excluding Thomas 9th Grade Scores
+
 ![Reading Scores by Grade Excluding Thomas 9th Grade Scores](https://github.com/awar2170/School_District_Analysis/blob/main/Resources/Comparision%20Photos/Reading%20Scores%20by%20grade%2C%20excluding%20the%209th%20grade%20Thomas.png)
 
 ##### Math 
 Math Scores by Grade Including Thomas 9th Grade Scores
+
 ![Math Scores by Grade Including Thomas 9th Grade Scores](https://github.com/awar2170/School_District_Analysis/blob/main/Resources/Comparision%20Photos/Math%20scores%20by%20grade%2C%20including%20the%209th%20grade%20Thomas.png)
 
 Math Scores by Grade Excluding Thomas 9th Grade Scores
+
 ![Math Scores by Grade Excluding Thomas 9th Grade Scores](https://github.com/awar2170/School_District_Analysis/blob/main/Resources/Comparision%20Photos/Math%20Scores%20by%20grade%2C%20excluding%20the%209th%20grade%20Thomas.png)
 
 #### School Spending 
