@@ -1,5 +1,7 @@
 # School District Analysis
-## Overview of This Analysis 
+## Overview of This Analysis
+The purpose of this analysis was to analyze the test results for a district of schools.  In the challenge, it is hypothesized that Thomas High School's 9th grade class may have been cheating on their test scores.  This readme file will outline the results of this analysis and note any suspicious changes that may have occured when comparing the data including Thomas High School's 9th grade class to the data excluding Thomas High School's 9th grade class. 
+
 ## Results 
 ### Effect on the District Summary
 School District Summary Including Thomas 9th Grade Scores
